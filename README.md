@@ -30,7 +30,8 @@
 
 
 # Choosing a Controller:<br/>
-We choose between 3 the controllers that are supported by QMK (https://github.com/qmk/qmk_firmware/blob/master/docs/compatible_microcontrollers.md). 
+We choose 3 controllers from all of the QMK supported ones (https://github.com/qmk/qmk_firmware/blob/master/docs/compatible_microcontrollers.md).  
+We chose them, because they are available, have enough flash and have enough GPIOs.
 The last two are ment to be used for per key RGB, because you will need way more GPIO pins that non per key illumination. 
 <br/>
 ## AT90USB646-MUR:
