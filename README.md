@@ -1,20 +1,33 @@
 # DIY-Keyboard
 Designing a complete keyboard mainly for ISO-DE users. 
 
+Planned layouts:
+- [ ] ISO
+- [ ] ANSI
+ 
+Planned sizes:
 - [ ] TKL
+- [ ] TKL without F row
 - [ ] 65%
-- [ ] RGB mayber per key 
-- [ ] Underglow oder wie drop CTRL, oder ähnlich wie GMMK Pro
-- [ ] Rotary Encoder
-- [ ] Fingerabdruck?
-- [ ] Display?
-- [ ] Hot Swap
-- [ ] QMK, GUI Software
-- [ ] Bluetooth?
-- [ ] ATmega32U4?
-- [ ] Gehäuse?
+
+Planned Connection:
+- [ ] USB-C
+
+Planned Features:
 - [ ] Switch Plate
-- [ ] USB-C?
+- [ ] Rotary Encoder
+- [ ] Hot Swap
+- [ ] Maybe Display? 
+- [ ] QMK
+- [ ] RGB per Key?
+- [ ] RGB stripes like GMMK PRo
+- [ ] fingerprint sensor?
+
+Planned designen functional Case, feel free to design your own with provided schematics. 
+
+Maybe worth trying
+- [ ] Programming GUI to controll Keyboard
+
 
 Choosing a Controller:
 AT90USB646-MUR:
