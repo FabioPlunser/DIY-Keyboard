@@ -38,6 +38,9 @@ The last two are ment to be used for per key RGB, because you will need way more
 Flash: 64kB, IO: 48:
 https://www.mouser.at/ProductDetail/Microchip-Technology-Atmel/AT90USB646-MUR?qs=rBGENRD8NwIhZgS5YIDA9Q%3D%3D
 <br/> 
+Important pages from the datasheet:
+https://www.mouser.at/datasheet/2/268/doc7593-1369068.pdf
+Quratz configuration on page 43
 
 ## STM32G474VET6:
 Flash: 512 kB, IO: 107
