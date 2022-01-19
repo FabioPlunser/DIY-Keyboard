@@ -50,3 +50,7 @@ https://www.mouser.at/ProductDetail/STMicroelectronics/STM32G474VET6?qs=sGAEpiMZ
 ## STM32F446ZET7
 Flash: 512KB, IO: 14
 https://www.mouser.at/ProductDetail/STMicroelectronics/STM32F446ZET7?qs=sGAEpiMZZMsKEdP9slC0YW7w0sAsT3%2FGB%2FjI7C9YUKU%3D
+
+# Stuff to remember:
+CNC-Parts: https://spanflug.de/<br/>
+Switch-Plate Generator: https://kbplate.ai03.com/
