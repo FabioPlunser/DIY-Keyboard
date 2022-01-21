@@ -62,3 +62,5 @@ Voltage Regulator : TC1264
 
 
 # Prototyping Parts LIst
+- Controller: https://www.mouser.at/ProductDetail/STMicroelectronics/STM32L412C8U6?qs=l7cgNqFNU1ixhybWRBzfMQ%3D%3D
+- Quartz: https://www.mouser.at/ProductDetail/ECS/ECS-80-10-33-CGN-TR3?qs=7D1LtPJG0i1ECQY78wJ83A%3D%3D
