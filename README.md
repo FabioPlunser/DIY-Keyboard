@@ -54,3 +54,8 @@ https://www.mouser.at/ProductDetail/STMicroelectronics/STM32F446ZET7?qs=sGAEpiMZ
 # Stuff to remember:
 CNC-Parts: https://spanflug.de/<br/>
 Switch-Plate Generator: https://kbplate.ai03.com/
+
+STM32:<br/>
+USB Pins: PA11 = DM, PA12 = DP;
+
+Voltage Regulator : TC1264
