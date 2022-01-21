@@ -59,3 +59,6 @@ STM32:<br/>
 USB Pins: PA11 = DM, PA12 = DP;
 
 Voltage Regulator : TC1264
+
+
+# Prototyping Parts LIst
